@@ -1,0 +1,147 @@
+    1  pwd
+    2  pwd
+    3  cd Documents/git-basic-exercises
+    4  ls -a
+    5  $ git config user.name "Dimpho"
+    6  git config user.name "Dimpho"
+    7  git init
+    8  ls -a
+    9  git config user.name "Dimpho"
+   10  git config user.email "anthoniasaude04@gmail.com"
+   11  git status
+   12  touch README .md
+   13  ls -a
+   14  git status
+   15  git log
+   16  git add
+   17  pwd
+   18  cd Documents/git-basic-exercises
+   19  ls -a
+   20  git init
+   21  ls -a
+   22  git config user.name "Dimpho"
+   23  git config user.email "anthoniasaude04@gmail.com"
+   24  git status
+   25  touch README .md
+   26  ls -a
+   27  touch README.md
+   28  ls -a
+   29  git status
+   30  git log
+   31  git add .
+   32  git status
+   33  git rm --cached <README.md>...
+   34  git rm --cached <README.md>
+   35  git rm --cached README.md
+   36  git status
+   37  git add .
+   38  ls -a
+   39  git add .
+   40  git add README.md .
+   41  git add README.md
+   42  git status
+   43  pwd
+   44  cd Documents/git-basic-exercises
+   45  ls -a
+   46  git rm --cached ...
+   47  ls -a
+   48  git rm ...
+   49  git rm --cached ...
+   50  git rm ...
+   51  rm ...
+   52  ls
+   53  ls -a
+   54  git init
+   55  ls -a
+   56  git config user.name "Dimpho"
+   57  git config user.email "anthoniasaude04@gmail.com"
+   58  git status
+   59  touch README.md
+   60  ls -a
+   61  git status
+   62  git log
+   63  git add .
+   64  git status
+   65  git rm --cached README.md
+   66  git status
+   67  git add .
+   68  git status
+   69  git commit -m "initial commit"
+   70  git log
+   71  q
+   72  nano README.md
+   73  cat README.md
+   74  git status
+   75  git add .
+   76  git commit -m "initial commit"
+   77  exit
+   78  pwd
+   79  cd Documents/git-basic-exercises
+   80  ls -a
+   81  git init
+   82  ls -a
+   83  git status
+   84  touch README.md
+   85  ls -a
+   86  git status
+   87  git log
+   88  git add .
+   89  git status
+   90  git rm --cached README.md
+   91  git status
+   92  git add .
+   93  git status
+   94  git commit -m "initial commit"
+   95  exit
+   96  pwd
+   97  cd Documents/git-basic-exercises
+   98  ls -a
+   99  git init
+  100  git config user.name "Dimpho"
+  101  git config user.email "anthoniasaude04@gmail.com"
+  102  ls -a
+  103  git status
+  104  touch README.md
+  105  ls -a
+  106  git status
+  107  git log
+  108  git add .
+  109  git status
+  110  git rm --cached README.md
+  111  git status
+  112  git add .
+  113  git commit -m "initial commit"
+  114  git log
+  115  q
+  116  nano README.md
+  117  cat README.md
+  118  git status
+  119  git add .
+  120  git commit -m "second commit"
+  121  nano README.md
+  122  cat README.md
+  123  git status
+  124  git add .
+  125  git commit -m "third commit"
+  126  git log
+  127  git checkout d57a584b7f59c7b760434978c78f292bf7290bf8
+  128  cat README.md
+  129  git checkout main
+  130  cat README.md
+  131  git branch
+  132  git checkout -b milkshake-flavours
+  133  git branch
+  134  git checkout main
+  135  git branch
+  136  git checkout milkshake-flavours
+  137  git branch
+  138  nano milkshakes.md
+  139  git status
+  140  git add .
+  141  git commit -m "added initial flavours"
+  142  git log
+  143  git checkout main
+  144  git checkout -b history
+  145  git log
+  146  git branch
+  147  history > history.txt
